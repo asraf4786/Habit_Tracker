@@ -7,7 +7,7 @@ It's a Web App built with Node.js and EJS. It allows users to define habits and 
 
 <img src="./image/252058126-5c854218-a61c-4142-8715-1720fa48de2a.png" alt="image">
 
-<img src="./image/252058174-bc3a1896-f2fa-4335-a0cc-352a87cb973b.png">
+<img src="./image/252058174-bc3a1896-f2fa-4335-a0cc-352a87cb973b.png" alt="image">
 
 ## Folder Structure:-<br/>
 
