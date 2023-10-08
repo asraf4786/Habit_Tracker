@@ -1,0 +1,23 @@
+{
+  "name": "habit-tracker",
+  "version": "1.0.0",
+  "description": "This is Basic Habit Tracking Application for Users to Track Daily Habits for a week and this file is Readme for this Web Application.  It's a Web App built with Node.js and EJS. It allows users to define habits and track their progress on a daily basis for a week.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongo": "^4.6.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^7.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
